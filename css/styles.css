@@ -1,0 +1,23 @@
+.headline1 {
+  color: cornflowerblue;
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headline2 {
+  color: darkgoldenrod;
+}
+
+.headline3 {
+  color: rebeccapurple;
+}
+
+.furrari {
+  color: firebrick;
+}
+
+.authors {
+  font-family: fantasy;
+}
